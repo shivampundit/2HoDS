@@ -28,6 +28,7 @@
 24. trie (_2 days_)
 
 _We can made change in practice days accordingly._
+
 **if you are from _MPEC_ main me to join group at 'intactcoder@gmail.com' **
 
 ## Useful Youtube links for Learning DSA
@@ -44,7 +45,7 @@ _We can made change in practice days accordingly._
 
 ---
 
-##Practice Problems
+## Practice Problems
 
 **Mathmaticcal problems**
 
