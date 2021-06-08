@@ -86,11 +86,11 @@ _We can made change in practice days accordingly._
 
 1. [Count Squares](https://practice.geeksforgeeks.org/problems/count-squares/0)
 2. [3 Divisors](https://practice.geeksforgeeks.org/problems/3-divisors/0)
-3. [Check if four points form a square]https://practice.geeksforgeeks.org/problems/is-square/0()
+3. [Check if four points form a square](https://practice.geeksforgeeks.org/problems/is-square/0)
 4. [Check for power](https://practice.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number/0)
 5. [Overlapping rectangles](https://practice.geeksforgeeks.org/problems/overlapping-rectangles/0)
 6. [Trailing zeroes in factorial](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial/0)
-7. [Angle between hour and minute hand]https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand/0()
+7. [Angle between hour and minute hand](https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand/0)
 8. [Number Of Open Doors](https://practice.geeksforgeeks.org/problems/number-of-open-doors/0)
 9. [Triangular Numbers](https://practice.geeksforgeeks.org/problems/triangular-number/0)
 10. [Nth Even Fibonacci Number](https://practice.geeksforgeeks.org/problems/nth-even-fibonacci-number/0)
