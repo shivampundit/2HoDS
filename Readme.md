@@ -29,7 +29,7 @@
 
 _We can made change in practice days accordingly._
 
-**if you are from _MPEC_ main me to join group at 'intactcoder@gmail.com' **
+**if you are from _MPEC_ mail me to join group at 'intactcoder@gmail.com' **
 
 ## Useful Youtube links for Learning DSA
 
@@ -84,19 +84,19 @@ _We can made change in practice days accordingly._
 
 > Try to solve at least 10 problems.
 
-1. Count Squares
-2. 3 Divisors
-3. Check if four points form a square
-4. Check for power
-5. Overlapping rectangles
-6. Trailing zeroes in factorial
-7. Angle between hour and minute hand
-8. Number Of Open Doors
-9. Triangular Numbers
-10. Nth Even Fibonacci Number
-11. Last two digit Fibonacci
-12. Squares in a Matrix
-13. Day of the week
+1. [Count Squares](https://practice.geeksforgeeks.org/problems/count-squares/0)
+2. [3 Divisors](https://practice.geeksforgeeks.org/problems/3-divisors/0)
+3. [Check if four points form a square]https://practice.geeksforgeeks.org/problems/is-square/0()
+4. [Check for power](https://practice.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number/0)
+5. [Overlapping rectangles](https://practice.geeksforgeeks.org/problems/overlapping-rectangles/0)
+6. [Trailing zeroes in factorial](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial/0)
+7. [Angle between hour and minute hand]https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand/0()
+8. [Number Of Open Doors](https://practice.geeksforgeeks.org/problems/number-of-open-doors/0)
+9. [Triangular Numbers](https://practice.geeksforgeeks.org/problems/triangular-number/0)
+10. [Nth Even Fibonacci Number](https://practice.geeksforgeeks.org/problems/nth-even-fibonacci-number/0)
+11. [Last two digit Fibonacci](https://practice.geeksforgeeks.org/problems/last-two-digit-fibonacci/0)
+12. [Squares in a Matrix](https://practice.geeksforgeeks.org/problems/squares-in-a-matrix/0)
+13. [Day of the week](https://practice.geeksforgeeks.org/problems/day-of-the-week/0)
 
 ---
 
@@ -104,22 +104,22 @@ _We can made change in practice days accordingly._
 
 > Try to solve at least 20 problems.
 
-1. Array operations (Search, insert, delete)
-2. Array alternate printing
-3. Maximum and minimum in an array
-4. Second largest in array
-5. Sum of array elements
-6. Reverse an Array
-7. Rotate Array
-8. Count of smaller elements
-9. Remove duplicate elements from sorted Array
-10. Count possible triangles
-11. Leaders in an array
-12. Minimum distance between two numbers
-13. Sorted subsequence of size 3
-14. Maximum Sub Array
-15. Majority Element
-16. Wave Array
+1. [Array operations (Search, insert, delete)](https://practice.geeksforgeeks.org/problems/operating-an-array/1)
+2. [Array alternate printing](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1)
+3. [Maximum and minimum in an array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array/0)
+4.[ Second largest in array](https://practice.geeksforgeeks.org/problems/second-largest/0)
+5. [Sum of array elements](https://practice.geeksforgeeks.org/problems/sum-of-array-elements/0)
+6. [Reverse an Array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)
+7. [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
+8. [Count of smaller elements](https://practice.geeksforgeeks.org/problems/count-of-smaller-elements/0)
+9. [Remove duplicate elements from sorted Array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
+10. [Count possible triangles](https://practice.geeksforgeeks.org/problems/count-possible-triangles/0)
+11. [Leaders in an array]()
+12. [Minimum distance between two numbers]()
+13. [Sorted subsequence of size 3]()
+14. [ Maximum Sub Array]()
+15. [Majority Element]()
+16. [Wave Array]()
 17. Maximum Index
 18. Max sum path in two arrays
 19. Product array puzzle
